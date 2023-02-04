@@ -9,13 +9,14 @@
 
 body {
     background-color: gray;
+    background-image: url('assets/cabin.svg');
 }
 /* the main container */
 
 .front-side,
 .back-side {
-  width: 220px;
-  height: 390px;
+  width: 254px;
+  height: 441px;
   position: relative;
   /* adjust this to space out the cards */
   margin: 20px auto;
@@ -24,9 +25,8 @@ body {
   background-color:antiquewhite;
 }
 
-.front-side{
-  background-image: url('cloud.svg');
-}
+/* .front-side{
+} */
 
 .name{
   display: grid;
