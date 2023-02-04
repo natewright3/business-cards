@@ -70,7 +70,7 @@ h5{
 /* .st0{display:none;} */
 .st1{display:inline;}
 
-#line-work{
+svg{
   fill:purple;
 }
 
@@ -80,8 +80,9 @@ h5{
 
 
 
-svg:hover{
-  fill:rgb(228, 240, 242);
+.svg-interaction:hover{
+  fill:rgb(118, 27, 237);
+  opacity: 0.5;
   animation:pulse; 
   animation-duration: 2s;
 }
