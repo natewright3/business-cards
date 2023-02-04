@@ -2,6 +2,8 @@
     padding: 0;
     margin: 0;
     box-sizing: border-box;
+    /* border: 1px solid blue; */
+
     }
 
 
@@ -42,12 +44,15 @@ body {
 }
 
 .icon-container{
+
+  width:80%;
+  margin: 0 auto;
   display:grid;
   grid-template-columns: 1fr 1fr 1fr;
   grid-template-rows: 1fr;
   grid-template-areas: 
   "a b c";
-  border: 8px solid blue;
+  grid-gap: 10px;
 }
 
 /* .circle{
