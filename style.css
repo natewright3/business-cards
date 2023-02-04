@@ -12,8 +12,8 @@ body {
 
 .front-side,
 .back-side {
-  width: 390px;
-  height: 220px;
+  width: 220px;
+  height: 390px;
   position: relative;
   /* adjust this to space out the cards */
   margin: 20px auto;
@@ -64,3 +64,24 @@ h5{
   margin-top: 0px;
   padding-top: 0px;
 } */
+
+
+/* svg styling */
+/* .st0{display:none;} */
+.st1{display:inline;}
+
+#line-work{
+  fill:purple;
+}
+
+#icon-fill{
+  fill:none;
+}
+
+
+
+svg:hover{
+  fill:rgb(228, 240, 242);
+  animation:pulse; 
+  animation-duration: 2s;
+}
