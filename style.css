@@ -13,8 +13,7 @@ body {
 }
 /* the main container */
 
-.front-side,
-.back-side {
+.front-side{
   width: 254px;
   height: 441px;
   position: relative;
@@ -54,6 +53,7 @@ h1{
   margin-bottom: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 600;
+  text-align: center;
 }
 
 h2{
@@ -61,4 +61,13 @@ h2{
   padding-top: 0px;
   font-family: 'Kumbh Sans', sans-serif;
   font-weight: 200;
+  text-align: center;
 } 
+
+h3{
+  margin-top: 0px;
+  padding-top: 0px;
+  font-family: 'Kumbh Sans', sans-serif;
+  font-weight: 400;
+  text-align: center;
+}
