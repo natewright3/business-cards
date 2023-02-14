@@ -21,7 +21,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   /* adjust this to space out the cards */
-  margin: 20px auto;
+  margin: 0px auto;
   overflow: hidden;
   box-shadow: 2px 5px 15px 0px #17161694;
   background-color:rgb(255, 255, 255);
