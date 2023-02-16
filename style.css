@@ -145,18 +145,18 @@ a:hover {
 }
 
 @-webkit-keyframes anim1 {
-  from { -webkit-transform: rotate(0deg) translateX(10px) rotate(0deg); }
-  to   { -webkit-transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+  from { -webkit-transform: rotate(0deg) translateX(5px) rotate(0deg); }
+  to   { -webkit-transform: rotate(360deg) translateX(5px) rotate(-360deg); }
 }
 
 @-moz-keyframes anim1 {
-  from { -moz-transform: rotate(0deg) translateX(10px) rotate(0deg); }
-  to   { -moz-transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+  from { -moz-transform: rotate(0deg) translateX(5px) rotate(0deg); }
+  to   { -moz-transform: rotate(360deg) translateX(5px) rotate(-360deg); }
 }
 
 @-o-keyframes anim1 {
-  from { -o-transform: rotate(0deg) translateX(10px) rotate(0deg); }
-  to   { -o-transform: rotate(360deg) translateX(10px) rotate(-360deg); }
+  from { -o-transform: rotate(0deg) translateX(5px) rotate(0deg); }
+  to   { -o-transform: rotate(360deg) translateX(5px) rotate(-360deg); }
 }
 
 @keyframes anim1 {
