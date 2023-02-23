@@ -108,6 +108,11 @@ a:hover {
   color: rgb(0, 151, 206);
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+}
+
 .particles {
     animation-name: particle-move;
     animation-duration: 20s;
